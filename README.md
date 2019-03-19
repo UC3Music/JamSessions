@@ -44,3 +44,6 @@ Cualquier otra cancion es bienvenida realmente.
 - Pasarlo bien xddxdxd
 
 
+
+Puedes ver momentos de nuestras anteriores Jams [aquí](https://www.youtube.com/playlist?list=PLlS9yS3Y_XMZbSSsXX0bzaJ5OOofXSwT6).
+
