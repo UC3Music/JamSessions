@@ -17,9 +17,16 @@ Lugar donde documentar, discutir y difundir todo lo relacionado con las **Jam Se
 
 ### Rock
 - Jet - Are You Gonna Be My Girl
-- Guns N Roses - Sweet Child O Mine :c
+- Guns N Roses - Sweet Child O Mine
 - Metallica - Enter Sandman
 - ACDC - Cualquiera de las míticas
+- Strip Saints - We Need More
+- Scorpions - Rock you Like an Hurricane
+- Rolling Stones - Satisfaction - The Last time
+- Kiss - Rock N' Roll All Nite
+- Iron Maiden - The Number of the Beast
+- Green Day - American Idiot
+- Leño - Maneras de Vivir
 
 Las típicas que sabe todo el mundo, vamos...
 
@@ -28,11 +35,15 @@ Las típicas que sabe todo el mundo, vamos...
 - All of Me
 - Cantaloupe Island
 - Take the "A" Train
-- Summertime
+- Summertime 
 - Sandu
 - The Chicken
 - Blues (in any key)
 - Otros standards...
+
+### Extra
+- Backstreet boys - Everybody
+
 
 Cualquier otra cancion es bienvenida realmente.
 
