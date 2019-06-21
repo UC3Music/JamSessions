@@ -60,6 +60,10 @@ Cualquier otra cancion es bienvenida realmente.
 <div id="jam-gallery align="left">
          <img src="https://raw.githubusercontent.com/UC3Music/JamSessions/master/16JamSession/JamSession16.png" height="150px" title="Jam Session 16">
          <img src="https://raw.githubusercontent.com/UC3Music/JamSessions/master/15JamSession/JamSession15.png" height="150px" title="Jam Session 15">
+         <img src="https://raw.githubusercontent.com/UC3Music/JamSessions/master/14JamSession/JamSession14Purple.png" height="150px" title="Jam Session 14">
+                  <img src="https://raw.githubusercontent.com/UC3Music/JamSessions/master/13JamSession/JamSession13.png" height="150px" title="Jam Session 13">
+                  <img src="https://raw.githubusercontent.com/UC3Music/JamSessions/master/12JamSession/JamSession12Web.jpg" height="150px" title="Jam Session 12">
+                  <img src="https://raw.githubusercontent.com/UC3Music/JamSessions/master/11JamSession/JamSession11.jpg" height="150px" title="Jam Session 11">
 </div>
 
 Puedes ver momentos de nuestras anteriores Jams [aquí](https://www.youtube.com/playlist?list=PLlS9yS3Y_XMZbSSsXX0bzaJ5OOofXSwT6).
