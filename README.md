@@ -30,7 +30,7 @@ Lugar donde documentar, discutir y difundir todo lo relacionado con las **Jam Se
 
 Las típicas que sabe todo el mundo, vamos...
 
-### Jazz
+### Jazz | DISCLAIMER: No suele venir gente que se las sepa
 - Autumn Leaves
 - All of Me
 - Cantaloupe Island
