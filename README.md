@@ -56,6 +56,14 @@ Cualquier otra cancion es bienvenida realmente.
 - Pasarlo bien xddxdxd
 
 
+## Jams Realizadas
+<div id="jam-gallery align="left">
+         <img src="https://raw.githubusercontent.com/UC3Music/JamSessions/master/16JamSession/JamSession16.png" height="150px" title="Jam Session 16">
+         <img src="https://raw.githubusercontent.com/UC3Music/JamSessions/master/15JamSession/JamSession15.png" height="150px" title="Jam Session 15">
+</div>
 
 Puedes ver momentos de nuestras anteriores Jams [aquí](https://www.youtube.com/playlist?list=PLlS9yS3Y_XMZbSSsXX0bzaJ5OOofXSwT6).
+
+
+
 
