@@ -1,5 +1,5 @@
 # Jam Session 16
-Fecha: 27/06/2019
+Fecha: 25/06/2019
 
 Lugar: Salón de Grados de la Universidad Carlos III de Madrid
 
