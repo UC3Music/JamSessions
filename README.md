@@ -1,4 +1,6 @@
 # Jam Sessions
+Una de las acepciones de jam del diccionario Collins es "<i>mucha gente estrujada en un espacio pequeño</i>". Si aliñas eso con mucha improvisación, música a la altura, algo de intimidad, un público diverso, pocos prejuicios y bastante buen rollo, el resultado es una jam session.
+
 Aquí podrás encontrar la información sobre:
 
 - Repertorio/Setlist orientativa.
