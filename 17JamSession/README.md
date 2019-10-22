@@ -1,5 +1,5 @@
 # Jam Session 17
-Fecha: TBD
+Fecha: 25/10/2019
 
 Lugar: Salón de Grados de la Universidad Carlos III de Madrid
 
