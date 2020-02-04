@@ -20,6 +20,10 @@ En su forma más simple, solo se necesitan 3 acordes <b>dominantes</b> (I III VI
 | F7 | F7 | C7 | C7 |
 |  G7 | F7 | C7 | C7 |
 
+#### Algunas escalas para improvisar
+- Escala de blues: C - Eb - F - F# - G - Bb
+- Pentatónica mayor: C - D - E - G - A
+
 ## 2 5 1 (ii V I)
 La progresión más básica de jazz.
 
